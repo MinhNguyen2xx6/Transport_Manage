@@ -1,0 +1,26 @@
+# File rac
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# MT ao thi tat nhien la khong duoc push len
+venv/
+.venv/
+env/
+
+# Ko push cai nay len
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Database local
+*.db
+*.sqlite3
+
+# Linux
+.DS_Store
+.thumbs.db
