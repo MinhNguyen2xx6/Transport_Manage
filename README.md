@@ -41,6 +41,6 @@ A responsive, high-performance web dashboard built for operational efficiency:
 
 ---
 
-**Developed by:** Minh Nguyen (Backend Engineer)
-**Organization:** Quang Nguyen General Transport Company Limited
-**Description** https://docs.google.com/document/d/14pNZvUz7UrMZI5t0bKVUtYpeFibaV1CZtjKdEAAUsb0/edit?usp=sharing
+- **Developed by:** Minh Nguyen (Backend Engineer)
+- **Organization:** Quang Nguyen General Transport Company Limited
+- **Description:** https://docs.google.com/document/d/14pNZvUz7UrMZI5t0bKVUtYpeFibaV1CZtjKdEAAUsb0/edit?usp=sharing
